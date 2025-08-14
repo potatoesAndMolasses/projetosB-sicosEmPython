@@ -1,3 +1,5 @@
+# lista01_ex16.py
+# Este script realiza três operações matemáticas diferentes com base em entradas do usuário.
 import math
 
 def letraA(x):

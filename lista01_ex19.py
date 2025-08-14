@@ -1,3 +1,10 @@
+# lista01_ex19.py
+# Este script calcula o comprimento, a área e o volume de uma esfera com base no raio fornecido pelo usuário.
+# As fórmulas utilizadas são:
+# Comprimento = 2 * π * raio
+# Área = π * raio²
+# Volume = (4/3) * π * raio³
+# O resultado é impresso com duas casas decimais.
 import math
 
 def contas(a):

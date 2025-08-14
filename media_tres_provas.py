@@ -1,3 +1,9 @@
+# media_tres_provas.py
+# Este script calcula a média de três provas e determina a situação do aluno.
+# As situações possíveis são:
+# - Aprovado: média >= 7
+# - Recuperação: 5 < média < 7
+# - Reprovado: média <= 5
 def media():
     p1 = int(input("Digite o valor da primeira prova: "))
     p2 = int(input("Digite o valor da segunda prova: "))

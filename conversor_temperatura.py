@@ -1,3 +1,9 @@
+# Conversor de Temperatura
+# Este script converte uma temperatura em Celsius para Fahrenheit ou Kelvin.
+# O usuário escolhe a unidade de conversão desejada.
+# As fórmulas de conversão são:
+# Fahrenheit = (Celsius * 9/5) + 32
+# Kelvin = Celsius + 273.15
 def conversor():
     temperaturaCelsius = int(input("Digite a temperatura em Celsius: "))
     escolha = input("Você deseja a temperatura em Fahrenheit ou Kelvin?")

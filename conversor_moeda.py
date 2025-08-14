@@ -1,3 +1,6 @@
+# Conversor de Moeda
+# Este script converte um valor em reais para dólares, euros e libras.
+# As taxas de conversão são fictícias e devem ser atualizadas conforme necessário.
 def dolar(valorReal):
     valorDolar = valorReal / 5.54
     print("Em dolares temos {:.2f}".format(valorDolar))

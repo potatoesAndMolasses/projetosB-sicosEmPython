@@ -1,3 +1,6 @@
+# Encontrando Vogais
+# Este script conta a quantidade de vogais em uma frase digitada pelo usuário.
+# As vogais consideradas são: a, e, i, o, u (tanto minúsculas quanto maiúsculas).
 def contador():
     contador = 0
     frase = input("Digite uma frase: ")

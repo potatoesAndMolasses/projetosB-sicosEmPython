@@ -1,3 +1,5 @@
+# Gorjeta e Divisão de Conta
+# Este script calcula a gorjeta e divide a conta entre amigos.
 def bill_split():
     friends = int(input("Digite a quantidade de amigos: "))
     amount = float(input("Digite o valor da conta: "))

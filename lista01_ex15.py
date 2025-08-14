@@ -1,3 +1,5 @@
+# lista01_ex15.py
+# Este script solicita o primeiro nome do usuário e imprime uma mensagem personalizada.
 def nome(nan):
     print("Boa tarde, {}! Como você está?".format(nan))
 

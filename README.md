@@ -6,6 +6,7 @@
 - Funções
 - Estruturas de dados (`list`, `dict`, `set`, `tuple`)
 - Leitura e escrita de arquivos
+- POO
 - Exercícios práticos
 
 ## Como executar
